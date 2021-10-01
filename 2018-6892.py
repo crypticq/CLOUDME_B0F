@@ -42,4 +42,4 @@ try:
     s.connect((host , port))
     s.send(payload)
 except:
-    print "Dont crash me !!"
+    print "Try again"
